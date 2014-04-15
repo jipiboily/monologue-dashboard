@@ -27,6 +27,3 @@ This is a repo with nothing else than a README for now. This is outlining an ext
 ## Possible source of inspiration?
 
 I actually like the look and feel of Ghost's dashboard. See Ghost's Dashboard, which is awesome: http://john.onolan.org/ghost
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jipiboily/monologue-dashboard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
